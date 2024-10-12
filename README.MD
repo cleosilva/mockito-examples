@@ -58,7 +58,7 @@ O projeto é composto por 7 classes principais e 3 classes de testes, organizada
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-mockito.git
+   git clone https://github.com/cleosilva/mockito-examples.git
    ```
 
 2. Compile o projeto:
